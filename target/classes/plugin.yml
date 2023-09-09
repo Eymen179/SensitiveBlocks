@@ -1,0 +1,4 @@
+name: SensitiveBlocks
+version: '1.0'
+main: org.eymen179.sensitiveblocks.SensitiveBlocks
+api-version: '1.20'
