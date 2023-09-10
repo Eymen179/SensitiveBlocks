@@ -1,0 +1,11 @@
+
+#         Welcome to SensitiveBlocks config.yml file.
+#
+#         You can enable or disable all sensitive blocks.
+#
+#         Created by Eymen179
+
+sensitive-blocks:
+  all-glass: true
+  all-pots: true
+  chain: true
